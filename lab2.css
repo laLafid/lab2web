@@ -1,0 +1,38 @@
+/*Header*/
+nav {
+    background: rgb(16, 160, 212);
+    color: rgb(60, 226, 255);
+    padding: 10px;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: rgb(16, 171, 255);
+}
+/* tombol bawah*/
+#intro {
+    background: #43b141;
+    border: 1px solid #17f7ff;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #E42A42;
+}
