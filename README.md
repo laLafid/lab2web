@@ -1,6 +1,6 @@
 # Latihan CSS dasar
 
-Halo halo, ini adalah lanjutan dari lab1 html dasar
+Halo halo, ini adalah lanjutan dari [lab1web html dasar](https://github.com/laLafid/Lab1Web)
 Sekarang kita akan mempelajari CSS dasar.
 
 ## Langkah-langkah
