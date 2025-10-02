@@ -17,13 +17,17 @@ nav a:hover {
 #intro {
     background: #43b141;
     border: 1px solid #17f7ff;
+    border-radius: 15px;
+    border-style: dashed;
+    box-shadow: black;
     min-height: 100px;
     padding: 10px;
+    margin-bottom: 900px;
 }
 #intro h1 {
     text-align: left;
     border: 0;
-    color: #fff;
+    color: #ffffff;
 }
 .button {
     padding: 15px 20px;
@@ -35,4 +39,14 @@ nav a:hover {
 }
 .btn-primary {
     background: #E42A42;
+}
+.text-paragraf {
+    background-color: black;
+    color: blue;        
+    font-weight: bold;
+}
+#paragraf-1 {
+    background-color: aqua;
+    color: rgb(255, 251, 0);         
+    font-weight: bold;  
 }
